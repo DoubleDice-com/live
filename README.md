@@ -1,1 +1,1 @@
-Our beta app version: https://beta.doubledice.com
+Live issues reporting repository.
